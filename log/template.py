@@ -1,0 +1,12 @@
+url_list=[
+    '',
+]#在这里天上你要下载的m3u8文件的URL
+token_list=[
+    '',
+]
+path_list=[
+    '///',
+]
+title_list=[
+    '',
+]

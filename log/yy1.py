@@ -1,0 +1,12 @@
+url_list=[
+    'http://hls.videocc.net/b034527feb/1/b034527feb6d6f7ccf4112e35ae97cf1_3.m3u8?pid=1676557758217X1489155&device=desktop',
+]#在这里天上你要下载的m3u8文件的URL
+token_list=[
+    '?token=84f5e6db-b071-4b70-a200-ae0ad460af8a-30',
+]
+path_list=[
+    '英语/课程概述/',
+]
+title_list=[
+    '课程概述',
+]
